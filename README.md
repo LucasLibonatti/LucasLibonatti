@@ -1,7 +1,7 @@
 ## 👨‍💻 Lucas Libonatti
 **`Desenvolvedora FullStack`**
 
-Me chamo Lucas Alexander Libonatti, tenho 19 anos sou de São Paulo Capital. Atualmente, cursando Ciências da Computação na UnicSul. Meu Linkedin "[Lucas Libonatti] (https://www.linkedin.com/in/lucas-libonatti/)"
+Me chamo Lucas Alexander Libonatti, tenho 19 anos sou de São Paulo Capital. Atualmente, cursando Ciências da Computação na UnicSul. Meu Linkedin "[Lucas Libonatti](https://www.linkedin.com/in/lucas-libonatti/)"
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
