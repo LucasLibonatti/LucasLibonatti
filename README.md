@@ -71,5 +71,9 @@ Me chamo Lucas Alexander Libonatti, tenho 19 anos sou de São Paulo Capital. Atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-</br>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=LucasLibonatti)](https://github.com/stats-organization/github-stats-extended)
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=LucasLibonatti)](https://github.com/stats-organization/github-stats-extended$theme=gruvbox)
