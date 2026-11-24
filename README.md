@@ -38,5 +38,5 @@ Me chamo Lucas, tenho 19 anos e sou de São Paulo, SP. Sou apaixonado por desenv
 
 ### 🚀 Projetos em Destaque
 
-- **[OmniLearn](https://omnilearn.vercel.app)** — Plataforma educacional gamificada que atua como um tutor IA. Reduziu a latência de respostas através de reestruturação no consumo da Groq API. Construída com React, TypeScript, Tailwind e Supabase.
-- **MatchBook** — Aplicação de recomendação de livros com interface "swipe" fluida. Integração resiliente com Google Books API, persistência de dados e autenticação via Supabase. *(Coloque o link do repositório/deploy aqui)*
+- **[OmniLearn](https://educacao-eficiente.vercel.app/)** — Plataforma educacional gamificada que atua como um tutor IA. Reduziu a latência de respostas através de reestruturação no consumo da Groq API. Construída com React, TypeScript, Tailwind e Supabase.
+- **[MatchBook](https://matchbook-br.vercel.app/)** — Aplicação de recomendação de livros com interface "swipe" fluida. Integração resiliente com Google Books API, persistência de dados e autenticação via Supabase. *(Coloque o link do repositório/deploy aqui)*
