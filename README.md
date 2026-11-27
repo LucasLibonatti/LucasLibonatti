@@ -4,9 +4,10 @@
 Me chamo Lucas, tenho 19 anos e sou de São Paulo, SP. Sou apaixonado por desenvolvimento de software e criação de interfaces modernas, atualmente cursando o **4º semestre de Ciência da Computação** na Universidade Cruzeiro do Sul. Tenho experiência prática na construção de aplicações web fullstack, com foco em arquitetura serverless, integrações de APIs de Inteligência Artificial, autenticação e bancos de dados relacionais.
 
 📫 **Como me encontrar:**
-- **Portfólio:** [portifolio-lucas-libonatti.vercel.app](https://portifolio-lucas-libonatti.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/lucas-libonatti](https://www.linkedin.com/in/lucas-libonatti/)
-- **E-mail:** lucasa.libonatti@gmail.com
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portifolio--lucas--libonatti.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-lucas-libonatti.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--libonatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-libonatti/)
+[![E-mail](https://img.shields.io/badge/E--mail-lucasa.libonatti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasa.libonatti@gmail.com)
 
 ---
 
