@@ -1,61 +1,48 @@
-<div align="center">
+# Olá, eu sou o Lucas Libonatti! 👋
+**Desenvolvedor FullStack | Estudante de Ciência da Computação**
 
-# Lucas Alexander Libonatti
+Me chamo Lucas, tenho 19 anos e sou de São Paulo, SP. Sou apaixonado por desenvolvimento de software e criação de interfaces modernas, atualmente cursando o **4º semestre de Ciência da Computação** na Universidade Cruzeiro do Sul. Tenho experiência prática na construção de aplicações web fullstack, com foco em arquitetura serverless, integrações de APIs de Inteligência Artificial, autenticação e bancos de dados relacionais.
 
-**Ciência da Computação (4º Semestre · Média Global 8,5) · Full-Stack & Inteligência Artificial**
-
-São Paulo, SP · Disponível para **Estágio em Desenvolvimento / TI (30h semanais)**
-
-[![Portfólio 3D](https://img.shields.io/badge/Portf%C3%B3lio_3D-portifolio--lucas--libonatti.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-lucas-libonatti.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--libonatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-libonatti/)
-[![E-mail](https://img.shields.io/badge/E--mail-lucasa.libonatti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasa.libonatti@gmail.com)
-
-</div>
+📫 **Como me encontrar:**
+- **Portfólio:** [portifolio-lucas-libonatti.vercel.app](https://portifolio-lucas-libonatti.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/lucas-libonatti](https://www.linkedin.com/in/lucas-libonatti/)
+- **E-mail:** lucasa.libonatti@gmail.com
 
 ---
 
-## Sobre Mim
+### 💻 Linguagens e Tecnologias
 
-- **Formação Acadêmica:** Graduando em **Ciência da Computação** na Universidade Cruzeiro do Sul (`Jan/2025 – Dez/2028`, 4º/8 semestres, média global `8,5`).
-- **Foco Técnico:** Base sólida em **Java, Python, SQL e Git/GitHub**, aplicada na construção de plataformas web Full-Stack com **React, TypeScript, Hono (Serverless), PostgreSQL (Neon) e APIs de IA**.
-- **Vivência Corporativa:** Atuação no atendimento corporativo do **Banco do Brasil (Posto TJSP)**, unindo organização, comunicação clara e responsabilidade operacional em ambiente de alta exigência.
+**Frontend:**  
+<img align="center" alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="center" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="center" alt="Vite" title="Vite" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+<img align="center" alt="Tailwind" title="Tailwind" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
----
+<br/>
 
-## Projetos em Destaque
+**Backend & Banco de Dados:**  
+<img align="center" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" alt="Spring Boot" title="Spring Boot" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="center" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Supabase" title="Supabase" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 
-| Projeto | Status | O que resolve & Arquitetura | Links |
-| :--- | :---: | :--- | :--- |
-| **OmniLearn** *(Educação Eficiente)* | `100% · Produção` | Plataforma EdTech gamificada com tutor de IA (*Prof. Omni*), flashcards Leitner, leitura local de PDF/PPTX, conformidade LGPD, Neon PostgreSQL, Better Auth, Groq + NVIDIA NIM e 20 testes Vitest + CI. | [Demo ao Vivo](https://educacao-eficiente.vercel.app/) · [Código](https://github.com/LucasLibonatti/OmniLearn) |
-| **MatchBook** | `100% · Produção` | Descoberta literária em formato *swipe* 60fps: o leitor escolhe 3 livros e a IA recomenda 10 obras reais com % de afinidade, justificativa, validação de capas multi-fonte (Google Books + Open Library), Hono e Framer Motion. | [Demo ao Vivo](https://matchbook-br.vercel.app/) · [Código](https://github.com/LucasLibonatti/MatchBook) |
-| **EntrevistAI** | `60% · Em Dev` | Simulador de entrevistas estilo **Google Meet** com 4 personas de IA (Llama 3.3 + Whisper STT), WebRTC e relatório pós-entrevista estilo Chess.com, com Neon PostgreSQL, Better Auth e 19 testes Vitest. | [Preview](https://entrevist-ai-xi.vercel.app) · [Código](https://github.com/LucasLibonatti/EntrevistAI) |
-| **Portfólio Interativo 3D** | `100% · Produção` | Portfólio cyber-glass em **React 19, TypeScript, Vite, Tailwind CSS v4, Three.js** (campo estelar WebGL com 3.200 partículas) e Framer Motion, com currículo PDF integrado. | [Site ao Vivo](https://portifolio-lucas-libonatti.vercel.app/) · [Código](https://github.com/LucasLibonatti/portfolio) |
+<br/>
 
----
-
-## Padrão de Engenharia Aplicado
-
-- **Segurança no Servidor:** zero chaves de API expostas no frontend — integrações externas e IA centralizadas em backend serverless **Hono** + headers `CSP`/`HSTS` na Vercel.
-- **Qualidade & CI/CD:** suítes automatizadas com **Vitest**, análise estática com **Oxlint (0 warnings)** e pipelines no **GitHub Actions**.
-- **Privacidade & Dados:** modelagem relacional em **PostgreSQL (Neon)** com funções atômicas, autenticação `HttpOnly` (**Better Auth**) e práticas de **LGPD**.
-
----
-
-## Stack Tecnológica
-
-**Linguagens & Dados:**
-`Java` · `Python` · `TypeScript` · `JavaScript` · `SQL` · `PostgreSQL (Neon / Supabase)` · `MySQL`
-
-**Frontend & Visualização:**
-`React` · `Vite` · `Tailwind CSS` · `Framer Motion` · `Three.js (WebGL)` · `HTML5` · `CSS3`
-
-**Backend, IA & Ferramentas:**
-`Hono (Serverless)` · `Node.js` · `REST APIs` · `Better Auth` · `Groq API` · `Hugging Face` · `Vitest` · `Git` · `GitHub Actions` · `Vercel`
+**Ferramentas, Testes & Deploy:**  
+<img align="center" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="center" alt="GitHub Actions" title="GitHub Actions" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="center" alt="Vitest" title="Vitest" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+<img align="center" alt="Vercel" title="Vercel" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 
 ---
 
-<div align="center">
+### 🚀 Projetos em Destaque
 
-**Aberto a oportunidades de Estágio em Desenvolvimento de Software / TI (30h semanais) em São Paulo ou remoto/híbrido.**
-
-</div>
+- **[OmniLearn](https://educacao-eficiente.vercel.app/)** ([Código](https://github.com/LucasLibonatti/OmniLearn)) — Plataforma educacional gamificada em produção com tutor de IA (*Prof. Omni*), flashcards Leitner, leitura local de PDF/PPTX e conformidade LGPD. Construída com React, TypeScript, Tailwind CSS, Hono, Neon PostgreSQL, Better Auth, Groq / NVIDIA NIM e Vitest.
+- **[MatchBook](https://matchbook-br.vercel.app/)** ([Código](https://github.com/LucasLibonatti/MatchBook)) — Aplicação de recomendação de livros em produção com interface *swipe* fluida, curadoria via Groq API e busca/validação de capas via Google Books e Open Library. Construída com React 19, TypeScript, Vite, Tailwind CSS, Framer Motion, Hono e Vitest.
+- **[EntrevistAI](https://entrevist-ai-xi.vercel.app)** ([Código](https://github.com/LucasLibonatti/EntrevistAI)) *(60% · Em desenvolvimento)* — Simulador de entrevistas estilo Google Meet com 4 personas de IA (Llama 3.3 + Whisper STT) e relatório pós-entrevista estilo Chess.com, com Hono, Neon PostgreSQL, Better Auth e Vitest.
